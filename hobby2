@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="layout.css">
+</head>
+
+<body>
+ <div class="sidebar">
+    <a class="active" href="hobby.html">Home</a>
+    <a href="hobby3">Aliens/Ufos</a>
+    <a href="hobby2">Bigfoot</a>
+    <a href="hobby4">Giant Squid</a>
+  </div>
+  <H1>Bigfoot</H1>  
+<P>Bigfoot or sasquautch are an 
+alleged type of ape who live on land and in forest</P>
+
+</body>

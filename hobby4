@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="layout.css">
+</head>
+
+<body>
+  <div class="sidebar">
+    <a class="active" href="hobby.html">Home</a>
+    <a href="hobby3">Aliens/Ufos</a>
+    <a href="hobby2">Bigfoot</a>
+    <a href="hobby4">Giant Squid</a>
+  </div>
+  <h1>Giant Squid</h1> 
+<p>Giant squid grow to large sizes and live in deep sea conditions</p>
+<a href="hobby.html">return to main page</a>
+</body>
